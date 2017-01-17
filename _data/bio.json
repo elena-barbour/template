@@ -25,7 +25,7 @@
         "username": "ebarbourhi",
         "url": "http://linkedin.com/in/ebarbourhi"
       },
-     /* {
+      {
         "network": "twitter",
         "username": "ebarbourhi",
         "url": "http://twitter.com/changeme"
@@ -34,15 +34,15 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }*/
+      }
     ]
   },
   "interests": [
     {
       "name": "Cyber-Security",
       "keywords": [
-       /* "Arduino",
-        "TI MSP430"*/
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
@@ -51,9 +51,9 @@
       ]
     },
     {
-      /*"name": "artificial intelligence",
+     *"name": "artificial intelligence",
       "keywords": [
-      ]*/
+      ]
     }
   ],
   "skills": [
