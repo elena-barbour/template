@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Elena Barbour",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://elenambarbour.github.io/template/images/2016-09-11 12.52.02.jpeg",
+    "email": "ebarbour@hawaii.edu",
+    "phone": " ",
+    "website": "https://elenambarbour.github.io",
+    "summary": "I am pursuing a B.S. in Computer Engineering from the College of Engineering at Unviersity of Hawai'i at Manoa. I expect to graduate in December 2016.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,43 +17,43 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "elenambarbour",
+        "url": "http://github.com/elenambarbour"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "ebarbourhi",
+        "url": "http://linkedin.com/in/ebarbourhi"
       },
-      {
+     /* {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "ebarbourhi",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cyber-Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       /* "Arduino",
+        "TI MSP430"*/
       ]
     },
     {
-      "name": "data mining",
+      "name": "ethical hacking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      /*"name": "artificial intelligence",
       "keywords": [
-      ]
+      ]*/
     }
   ],
   "skills": [
