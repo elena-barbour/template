@@ -2,15 +2,15 @@
   "basics": {
     "name": "Elena Barbour",
     "label": "Student",
-    "picture": "https://elenambarbour.github.io/template/images/2016-09-11 12.52.02.jpeg",
+    "picture": "https://elenambarbour.github.io/images/2016-09-11 12.52.02.jpeg",
     "email": "ebarbour@hawaii.edu",
     "phone": " ",
     "website": "https://elenambarbour.github.io",
     "summary": "I am pursuing a B.S. in Computer Engineering from the College of Engineering at Unviersity of Hawai'i at Manoa. I expect to graduate in December 2016.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "ebarbourhi",
         "url": "http://linkedin.com/in/ebarbourhi"
-      },
-      {
-        "network": "twitter",
-        "username": "ebarbourhi",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -41,17 +31,15 @@
     {
       "name": "Cyber-Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "ethical hacking",
+      "name": "Ethical Hacking",
       "keywords": [
       ]
     },
     {
-     *"name": "artificial intelligence",
+     *"name": "Software Engineering",
       "keywords": [
       ]
     }
