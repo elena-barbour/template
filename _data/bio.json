@@ -72,11 +72,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2013-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.66",
       "courses": [
       ]
     }
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "UH ",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
