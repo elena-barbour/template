@@ -51,21 +51,16 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
+        "Python",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 10",
+        "Unix"
       ]
     }
   ],
@@ -76,76 +71,79 @@
       "studyType": "B.S.",
       "startDate": "2013-01-01",
       "endDate": "Present",
-      "gpa": "3.66",
+      "gpa": "3.69",
       "courses": [
+        "Object Oriented Programming",
+        "Digital Systems & Computer Design",
+        "Discrete Math for Engineers"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa",
+      "position": "ResNet Support Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provided technical support to UH Manoa residents",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Troubleshooting problems involving wi-fi, LAN connections, and router issues",
+        "Help staff in a variety of long term and short term projects in programming, troubleshooting, documentation, maintenance, and networking"
       ]
     },
     {
-      "company": "UH ",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Windward Community College",
+      "position": "Supplementary Instruction Leader",
+      "website": "",
+      "startDate": "2014-05-12",
+      "endDate": "2015-05-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide additional resources, study methods, and learning techniques for students",
+        "Develop plans for sessions reviewing material and providing extra help with difficult concepts"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Mountain View Community Church",
+      "website": "http://www.mvcchawaii.org",
+      "position": "Worship Service Leader",
+      "startDate": "2009-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead keyboardist and singer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Monthly commitment to various responsibilities including sound equipment set-up and break-down",
+        "Create cohesive song lists and lead morning worship services"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Mountain View Community Church",
+      "website": "http://www.mvcchawaii.org",
+      "position": "Youth Group Mentor",
+      "startDate": "2012-01-01",
+      "endDate": "Present",
+      "summary": "Provide guidance and spiritual mentoring for youth from 5th - 12th grade",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Youth Camp planning",
+        "Monthly lesson planning and coordination",
+        "Outreach and event production"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Academic Achievement Scholarship",
+      "date": "2014-2015",
+      "awarder": "Windward Community College",
+      "summary": "Scholarships are awarded to full-time WCC students with above a 3.5 GPA"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Windward Community College/College of Engineering Dean's List Recipient",
+      "date": "Fall 2013 - Present",
+      "awarder": "Windward Community College and UH Manoa",
+      "summary": "Student's receive placement in the Dean's list by performing as the top %15 of the school"
     }
   ],
   "references": [
