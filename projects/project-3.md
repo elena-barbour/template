@@ -8,12 +8,12 @@ date: 2014
 labels:
   - Piano
   - Singing
-summary: 
+summary: I've been playing piano for my church worship band since I was 14 years old, and I've more recently started leading the worship services within the past three years. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-I've been playing piano for my church worship band since I was 14 years old, and I've more recently started leading the worship services within the past three years. 
+
 
 
 <hr>
