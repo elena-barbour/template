@@ -2,20 +2,19 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Music Team 
 permalink: projects/cotton
 date: 2014
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Piano
+  - Singing
+summary: 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I've been playing piano for my church worship band since I was 14 years old, and I've more recently started leading the worship services within the past three years. 
 
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
