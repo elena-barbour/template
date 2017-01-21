@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/imua2.jpg
+image: images/imua2.JPG
 title: Project Imua Year 2
 permalink: projects/projectimuay2
 date: 2016
