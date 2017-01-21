@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/imua1
 title: Project Imua Year 1
 permalink: projects/projectimuay1
 date: 2015
@@ -12,11 +12,8 @@ labels:
 summary: I was a student fellow for the Hawai'i Space Grant Consortium and a member of Project Imua, a UH Community College collaboration.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/2015.jpg">
 </div>
 
 Project Imua is a multi-community college collaboration involving Kapi'olani, Kaua'i, Honolulu, and Windward Community College. Our goal was to succesfully design a space-ready scientific payload that is able to pass all criteria set by the Colorado Space Grant Consortium in partnership with RockSat-X and Wallops Flight Facility in Virginia. In Project Imua Year 1, our scientific payload, PIP (Project Imua Payload), is a UV Spectrometer designed to measure UV-variations emitted from the sun paired with a light-sensor array designed to record the orientation of the payload during flight.
