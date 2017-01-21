@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/pianoplay.jpg
 title: Music Team 
 permalink: projects/pianoproject
 date: 2014
