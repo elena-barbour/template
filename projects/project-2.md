@@ -10,7 +10,7 @@ labels:
   - Python
   - Raspberry-Pi
   - 
-summary: Project Imua is back again! 3x the experiments, 3x times the work, 3x the fun.
+summary: Project Imua is back again! 3x the experiments, 3x the work, 3x the fun.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/python.jpg">
