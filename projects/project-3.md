@@ -8,7 +8,7 @@ date: 2014
 labels:
   - Piano
   - Singing
-summary: I've been playing piano for my church worship band since I was 14 years old, and I've more recently started leading the worship services within the past three years. 
+summary: I spent ages 12- 14 learning piano from YouTube videos. I've been playing piano for my church worship band since I was 14 years old, and I've more recently started leading the worship services within the past three years. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
@@ -19,38 +19,7 @@ summary: I've been playing piano for my church worship band since I was 14 years
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+I had taken formal piano lessons fromg 6-10 years old. The pieces, if not mainly for learning techniques or theory, were mostly classical. I enjoyed it so much that when I stopped having lessons I would play the same classical pieces over and over again from memory. Once I realized that I was annoying my sisters too much, I decided to started learning again. The first song I learned was the theme song to NBC's "The OFfice": this link is the video I learned from [The Office Theme Song]:(https://youtu.be/TVP7_AiXgJM).
 </pre>
 
 <hr>
