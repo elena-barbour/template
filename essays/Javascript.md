@@ -8,14 +8,14 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+There's nothing like your first language, whether good or bad, a programmer will always remember the first programming language they learned. Mine was C and I loved it. The straight shooting rules helped me categorize different procedures in my head making it easier to remember. Javascript, on the other hand, gives up some of these rules which caused a level of confusion while I was learning it. Now I'm a little concerned about my relationship with Javascript in the future.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+## Javascript vs. C
+I've had most of my experience with programming either at the C or C++ level or lower (i.e. assembly and VHDL). Because of this, I hold on to some semantics in syntax that I believe lead to a more organized and happy life. Like semicolons. I loved semicolons and brackets, but mostly semicolons. I know this makes me boring and definitely a stickler for rules, but it keeps me organized in my code and therefore organized in my life. Javascript throws my semicolons into the abyss of the old and I'm still trying to get used to it. It's not like it hurts a lot (even better, missing semicolons are never the reason for broken code!), but if my code is broken, I've had some moments of forgetfullness and proceded to look for missing semicolons that are obviously not the problem.
 
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
+Another note is that Javascript doesn't use pointers and this is fantastic for people who don't understand pointers. But I grew up (for the past 2 years) on C and this language is all about pointers, it makes up the bulk of the course content and ruins everyone's social lives. So I'm kind of excited to see what Javascript has to offer when we don't have to worry about memory.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
+## Conclusions
+I'm giving Javascript a chance and I think that it will impress me. It's appropriate that this is in an ICS class because I feel like I've alway had this viewpoint on ICS students, they were a little mystical and a little bit of an enigma for me. As a Computer Engineering major, I've feel that we aren't actually given a lot of classes for coding because we're learning a lot of electrical engineering too. ICS, on the other hand, get the opportunity to be more creative (I see a lot of interest in game design) and I'm a little scared that I'm not creative enough to be able to use Javascript to its fullest capabilities. Either way, I'm looking forward to the frustration followed, hopefully, by elation.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
