@@ -9,7 +9,6 @@ labels:
   - 3D design
   - Python
   - Raspberry-Pi
-  - 
 summary: Project Imua is back again! 3x the experiments, 3x the work, 3x the fun.
 ---
 
