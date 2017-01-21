@@ -21,3 +21,5 @@ Another method I've used is learning via tablature, but this has a big problem i
 
 A big problem with this method of learning is that it's based on sight reading, but not the right kind. Tabluratures have the names of notes and it's written in patterns to help better understand the values of the notes (or how many beats each note takes). It's dangerous to play the tablature game because if you ever want to start learning sheet music, it will be extremely difficult to break the habit of reading music in tablurature form and reading sheet music.
 
+One of the greatest skills I've gained from this method of learning is the ability to hear keys and notes better when I'm listening to music. I think one of the main reasons why we see so many people involved in STEM related fields, involved in music is because the methodology is very similar, and the result have a similar feeling as week. Both in music and in engineering, if we put hard work into gaining a new skill and use our unique methods of learning, we will get extremely rewarding results.
+
