@@ -37,5 +37,5 @@ I had two main responsibilities: design the 3D parts to be printed at Windward C
 
 Want to know a little more about our project and see what happened with our payload after the August 2016 launch? Click on this link [PAST THE ATMOSHPERE](https://vimeo.com/189246610)
 
-<img class="ui medium right floated rounded image" src="../images/prime.jpg">
+<img class="ui medium center floated rounded image" src="../images/prime.jpg">
  
