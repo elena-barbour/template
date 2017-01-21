@@ -5,6 +5,7 @@ title: Javascript: C++'s more exciting cousin
 date: 2017-01-20
 labels:
   - Engineering
+  - Javascript
 ---
 
 There's nothing like your first language, whether good or bad, a programmer will always remember the first programming language they learned. Mine was C and I loved it. The straight shooting rules helped me categorize different procedures in my head making it easier to remember. Javascript, on the other hand, gives up some of these rules which caused a level of confusion while I was learning it. Now I'm a little concerned about my relationship with Javascript in the future.
