@@ -13,8 +13,8 @@ labels:
 summary: Project Imua is back again! 3x the experiments, 3x the work, 3x the fun.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/python.jpg">
-<img class="ui medium right floated rounded image" src="../images/prime.jpg">
+<img class="ui small center floated rounded image" src="../images/python.jpg">
+<img class="ui small center floated rounded image" src="../images/prime.jpg">
 <img class="ui medium right floated rounded image" src="../images/elenascuber.jpg">
 
 The first Project Imua payload was successfully launched and recovered and so we designed another space-ready payload that would follow all criteria provided by Colorado Space Grant Consortium (COSGC). This year, all campuses designed a subsystem/experiment that worked cohesively with all other subsystems to make one scientific unit, PrIME (Project Imua Multiple Experiment). We divided the experiments by order of priority and listed them as follows: 
