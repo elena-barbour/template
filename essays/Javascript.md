@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript: C++'s more exciting cousin
+title: here
 date: 2017-01-20
 labels:
   - Software Engineering
