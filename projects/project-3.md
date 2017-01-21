@@ -17,9 +17,9 @@ summary: I spent ages 12- 14 learning piano from YouTube videos. I've been playi
 
 
 <hr>
-
-<pre>
 I had taken formal piano lessons fromg 6-10 years old. The pieces, if not mainly for learning techniques or theory, were mostly classical. I enjoyed it so much that when I stopped having lessons I would play the same classical pieces over and over again from memory. Once I realized that I was annoying my sisters too much, I decided to started learning again. The first song I learned was the theme song to NBC's "The OFfice": this link is the video I learned from [The Office Theme Song]:(https://youtu.be/TVP7_AiXgJM).
+<pre>
+
 </pre>
 
 <hr>
