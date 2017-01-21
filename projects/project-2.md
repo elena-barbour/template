@@ -34,4 +34,3 @@ I had two main responsibilities: design the 3D parts to be printed at Windward C
 
 Want to know a little more about our project and see what happened with our payload after the August 2016 launch? Click on this link [PAST THE ATMOSHPERE](https://vimeo.com/189246610)
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
