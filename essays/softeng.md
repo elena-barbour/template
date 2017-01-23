@@ -16,6 +16,6 @@ I actually wish I had considered ICS when I was looking into what degree I shoul
 
 
 ## What I hope to learn from Software Engineering
-<img class="ui medium left floated rounded image" src="../images/userinterface.png">
+<img class="ui large left floated rounded image" src="../images/userinterface.png">
 This is one of my favorite comics and it describes how I program to a tee. I think the reason I've mostly avoided "software engineer" specific things is because I don't see myself as creative a person as those people I think would be great software engineers. That's a big weakness of mine, getting the job done and not caring how usable it is, but rather that it works and works efficiently. Since it is a weakness I hope to strengthen my creativity with user interfaces and dedicate more time and effort to make a program that not only works well, but is usable. I look forward to being challenged in that area and I am excited to find out how creative I can be.
 
