@@ -34,9 +34,10 @@ Any help would be greatly appreciated. Thanks in advance!!
   <dd>"Hackers" can see, nay<i> smell </i>a homework question form a hundred miles away. You will get burned, badly.</dd>
   <dd>The best thing to do when you have a question about homework is google it. I assure you, the answer will be there.</dd>
   <dt>2. Do not label your questions as "urgent"</dt>
-  <dd>It's only urgent for you, and it will not draw a hacker to a problem if all it says is "URGENT!! segmentation fault file won't compile!!" This, for one, is not giving any insight into what common problem this could be related to, and is a common enough question that it doesn't quite make sense why you didn't spend 5 minutes searching for the answer.</dd>
-  <dt>3. Please and Thank You are sometimes the actual magic words</dt>
-  <dd>There's nothing better than being a polite programmer, and especially on the internet when facial expressions are not present, we all need to make a conscious effort to be kind to those helping us. Maybe it will even be the difference between getting helped or not.</dd>
+  <dd>It's only urgent for you, and it will not draw a hacker to a problem if all it says is "URGENT!! segmentation fault file won't compile!!"</dd>
+  <dd>This, for one, is not giving any insight into what common problem this could be related to, and is a common enough question that it doesn't quite make sense why you didn't spend 5 minutes searching for the answer.</dd>
+  <dt>3. 'Please' and 'Thank' You are sometimes <i>actual</i> magic words</dt>
+  <dd>There's nothing better than being a polite programmer, and especially on the internet when facial expressions are not present, we all need to make a conscious effort to be kind to those helping us. Maybe it will even be the difference between getting helped or getting passed by.</dd>
 
 </dl>
 
