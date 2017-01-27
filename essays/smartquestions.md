@@ -27,8 +27,8 @@ Any help would be greatly appreciated. Thanks in advance!!
 *This kind of question opens the door for programmers to intelligently reply with their expertise and advice and be confident in their answer because the user that asks the question gives enough information in very little space. What a great example this guy sets!*
 
 ---
-## Some advice to programmers
-After reading the article by Raymond, I have some highlights that might be useful! Especially to those that are just starting out on programming.
+<h1> Some advice to programmers</h1>
+<p>After reading the article by Raymond, I have some highlights that might be useful! Especially to those that are just starting out on programming.</p>
 <dl>
   <dt>1. Don't ask homework questions!</dt>
   <dd>"Hackers" can see, nay<i> smell </i>a homework question form a hundred miles away. You will get burned, badly.</dd>
@@ -39,3 +39,5 @@ After reading the article by Raymond, I have some highlights that might be usefu
   <dd>There's nothing better than being a polite programmer, and especially on the internet when facial expressions are not present, we all need to make a conscious effort to be kind to those helping us. Maybe it will even be the difference between getting helped or not.</dd>
 
 </dl>
+
+In conclusions, it may be up to debate on whether or not stupid questions actually exist, but this article definitely gives us a good guideline on how to ask smart questions instead.
