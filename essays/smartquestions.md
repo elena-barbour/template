@@ -30,7 +30,7 @@ Any help would be greatly appreciated. Thanks in advance!!
 <h3> Some advice to programmers</h3>
 <p>After reading the article by Raymond, I have some highlights that might be useful! Especially to those that are just starting out on programming.</p>
 <dl>
-<dt><bold>1. Don't ask homework questions!</bold></dt>
+<dt><strong>1. Don't ask homework questions!</strong></dt>
   <dd>"Hackers" can see, nay<i> smell </i>a homework question form a hundred miles away. You will get burned, badly.</dd>
   <dd>The best thing to do when you have a question about homework is google it. I assure you, the answer will be there.</dd>
   <dt><strong>2. Do not label your questions as "urgent"</strong></dt>
