@@ -7,7 +7,7 @@ date: 2017-01-20
 labels:
   - Software Engineering
 ---
-<img class="ui medium center floated rounded image" src="../images/dilbert.png">
+<img class="ui medium center floated rounded image" src="../images/dilbert.jpg">
 'There's no such thing as a dumb question' is a quote that I've heard get thrown around a lot lately. Though I agree that if someone has a question, no matter how 'dumb' it is, it isn't actually dumb. Questions are how we increase our knowledge, and everyone will have a 'dumb' question at least a hundred times in their life. For me, it's closer to a hundred times a week. Now, having said that, I do have to point out that there is a dumb way to get your question answered, and most of the time it has to do with lazyness. I cannot count how many times I've asked questions that, if I had just thought about it for twenty more seconds, I would have found the answer myself. I also cannot count the amount of times I've heard someone else ask a question that could have been answered by a few seconds of thought or two minutes of calculations.
 
 In an article written by Eric Steven Raymond, the author delves deeper into the idea of a 'smart' question by applying it to technical questions specifically. In this case, he used Stack Overflow (a site for programmers and hackers alike to develop forums of discussion about computer software and hardware dilemmas) as the template to give the best advice on how to get your questions answered, get it completely ignored, or create a perfect sacrifical lamb for hackers to pour out their frustration on the "lazy programmer". His article, [How To Ask Questions The Smart Way]("http://www.catb.org/esr/faqs/smart-questions.html") becomes a beautiful "How To" for beginners and veterans alike.
