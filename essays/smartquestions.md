@@ -31,7 +31,7 @@ Any help would be greatly appreciated. Thanks in advance!!
 <p>After reading the article by Raymond, I have some highlights that might be useful! Especially to those that are just starting out on programming.</p>
 <dl>
 <dt><strong>1. Don't ask homework questions!</strong></dt>
-  <dd>"Hackers" can see, nay<i> smell </i>a homework question from a hundred miles away. You will either be ignore, be the last straw for some hackers, or be the sacrificial lamb; an example for the rest of the world to see what happens to those don't respect the process and havethe audacity to ask hackers to let you slide by in your class when they actually figured those same problems out<i> by themselves</i>.</dd>
+  <dd>"Hackers" can see, nay<i> smell </i>a homework question from a hundred miles away. You will either be ignored, act as the last straw for some hackers, or be the sacrificial lamb; an example to the rest of the world so they might see what happens to those who don't respect the process and have the audacity to seek unmerited help from people have most likely taken the same classes and actually figured those same problems out<i> by themselves</i>.</dd>
   <dd>The best thing to do when you have a question about homework is google it. I assure you, the answer will be there.</dd>
   <dt><strong>2. Do not label your questions as "urgent"</strong></dt>
   <dd>It's only urgent for you, and it will not draw a hacker to a problem if all it says is "URGENT!! segmentation fault file won't compile!!"</dd>
