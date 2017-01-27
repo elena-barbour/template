@@ -12,7 +12,7 @@ labels:
 
 In an article written by Eric Steven Raymond, the author delves deeper into the idea of a 'smart' question by applying it to technical questions specifically. In this case, he used Stack Overflow (a site for programmers and hackers alike to develop forums of discussion about computer software and hardware dilemmas) as the template to give the best advice on how to get your questions answered, get it completely ignored, or create a perfect sacrifical lamb for hackers to pour out their frustration on the "lazy programmer". His article, [How To Ask Questions The Smart Way]("http://www.catb.org/esr/faqs/smart-questions.html") becomes a beautiful "How To" for beginners and veterans alike.
 
-# Installshield 2011 - Problem Upgrading existing software with Version format 2009.727.1365
+<h3> Installshield 2011 - Problem Upgrading existing software with Version format 2009.727.1365 </h3>
 Using Installshield 2011, we're creating a major upgrade and having problems upgrading software with this Product Version format - 2009.727.1365. We keep getting the standard 'Installed software is newer than product to be installed' message. With IS 2011, the major version has to be less than 255, from what I can gather, and I think the old format we're using is breaking the check for upgrading.
 
 I've created a test IS project upgrading from 1.00.0000 to 2.00.0000 with no issues, so I'm thinking the issue has to be related to the format of the product version already installed.
@@ -27,7 +27,7 @@ Any help would be greatly appreciated. Thanks in advance!!
 *This kind of question opens the door for programmers to intelligently reply with their expertise and advice and be confident in their answer because the user that asks the question gives enough information in very little space. What a great example this guy sets!*
 
 ---
-<h1> Some advice to programmers</h1>
+<h3> Some advice to programmers</h3>
 <p>After reading the article by Raymond, I have some highlights that might be useful! Especially to those that are just starting out on programming.</p>
 <dl>
   <dt>1. Don't ask homework questions!</dt>
