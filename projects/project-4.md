@@ -15,9 +15,9 @@ During my ICS 314 class I formed a group with classmates and worked on a real wo
 
 My contributions consisted of the creation and display of the "Activity" collection, in which we could store different activities and any relevant information about them. The activity should have a description, location, price (some hikes require payed parking), what types of interests it falls under for easy searching, and time accessible. I also implemented the disaply of the activity collection through cards on our dashboard page. Other contributions are the "add activity" page, in which users can input their own activities to share with other users.
 
-![](images/Dashboard1.png)
+![](../images/Dashboard1.png)
 
-![](images/add-activity.png)
+![](../images/add-activity.png)
 
 Some challenges faced from this application is the implementation of a collection of activities that could be easily access and seen in the most appealing way. As with many applications, aesthetics play an important role in development, and as much as we want our insides to act efficiently and be understood, we also want the appearance to be "easy on the eyes".
  
