@@ -10,6 +10,9 @@ labels:
   - UH Manoa
 summary: I worked in a 3 person team to develop an app for University of Hawai'i at Manoa students to discover exciting activities around the island of O'ahu to experience the adventures of the 'aina. 
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script> 
 
 During my ICS 314 class I formed a group with classmates and worked on a real world application for our final project. We decided to access our more "active" side and develop and app that will help students find different physical activities in the area to explore and enjoy the beauty of Hawai'i. As with many projects, we had a little bit of planning, a little bit of implementing, and a lot of troubleshooting. We were able to complete our Milestones by our specified deadlines and now have an intuitive and usable app for our individual portfolios.
 
