@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+<!--type: project-->
 image: images/pianoplay.jpg
 title: Music Team 
 permalink: projects/pianoproject
